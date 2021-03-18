@@ -4,7 +4,7 @@
  * 관리자 이메일 보내기(구글이메일 연동)
  
 # 개발언어 및 환경
-* Java & Spring3, Mysql
+* Java & Spring3, Mysql, bootstrap
  
  
 # 기능구현
