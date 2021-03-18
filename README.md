@@ -3,7 +3,7 @@
  * 간단한 블로그 형식의 게시판 글쓰기(에디터 기능 포함), 삭제구현
  * 관리자 이메일 보내기(구글이메일 연동)
  
-#기능구현
+# 기능구현
 <p align="center">
 <img src="https://user-images.githubusercontent.com/73155839/111572123-64044d80-87eb-11eb-824c-1d5600ea8caa.png">
 <img src="https://user-images.githubusercontent.com/73155839/111572127-65ce1100-87eb-11eb-983c-349884d1ed37.png">
